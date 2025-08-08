@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WearOS Tile Sample</string>
+    <string name="tile_label">Image Tile</string>
+
+    <!-- Messaggi per la richiesta di permessi -->
+    <string name="permission_request_message">Per mostrare le immagini dalla tua galleria, l\'app ha bisogno del permesso di accedere ai file.</string>
+    <string name="grant_permission_button">Concedi Permesso</string>
+    <string name="permission_granted_message">Permesso concesso! Ora puoi aggiungere la tile "Image Tile" al tuo quadrante.</string>
+
+    <!-- Messaggio per la tile quando non ci sono immagini -->
+    <string name="no_images_found">Nessuna immagine trovata nella cartella Pictures.</string>
+</resources>
